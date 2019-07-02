@@ -1,0 +1,4 @@
+#Wed Jun 26 13:19:55 ICT 2019
+base.0=C\:\\Users\\tommywahyu44\\Documents\\GitHub\\Nirbana3\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

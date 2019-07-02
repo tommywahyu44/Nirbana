@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Nirbana</string>
+
+  <color name="green_primary">#89CA86</color>
+  <color name="green_primary_dark">#1B5E20</color>
+  <color name="yellow_primary">#FFEB3B</color>
+</resources>

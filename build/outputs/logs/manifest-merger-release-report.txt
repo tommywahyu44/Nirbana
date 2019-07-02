@@ -1,0 +1,305 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:2:1-88:12
+MERGED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.florent37:materialtextfield:1.0.7] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\a7401983550df4e00da64e19fe46f44a\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\121af5224bce18042592292f9a93cfa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\4d4396ad006cd98fbb35006d3ac635de\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\7f1679fcb1919dc87c67084607ae7758\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\77de28693ffae6305c8b69f3b10bb562\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\d7167441f52de6e19777ed5b57c77c29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\9ecc56a5a6f76f46712dda83100791f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\60b9510a0bd878f0b49eb62d90ea1e7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\39a3e38c42c85908b5f2f79be5c11835\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\d74923a3951f49cf9430025e3a43f94e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\45f881d1ef61fe46c4994fc014c91da9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2aa59a60a18f911dbb9657703e68085e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\3fb93a833a01346a90fd9c4d7fc15797\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\3dbe13f380e86f649c0a2020c17e36bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\f0693534fb448336b1594aad0fdcce29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\bcd533f08e8be931457092ca413edb5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\1763c6e454fcdb8c7b59069e700a4f06\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\38d71a10e6041c91a32451f71ae2e84b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\744c59b60ff830973f8bd10bae7846f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\71627176f968ad39372663439add3d08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\85b64be6f6dc0b153d8acaead2b42cb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\d78efb530b39e0fcdf7e9c4ee529accf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\6c5292c2b106c98ae29fad1980cb92ea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\7deeef236118ccaa98f377f68af3f925\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\53a8cce14e5ef9f9959b1e38c064041e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\bd316447f566a3503ab32fbc450e2e6b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\3fd809cd3b8ef0711480ee6e8a6a1f52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\944763dc9ffe5dc7685555e32dc41317\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:2:1-88:12
+		INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:2:1-88:12
+		INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:5:5-45
+supports-screens
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:7:5-12:40
+	android:largeScreens
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:12:9-37
+	android:anyDensity
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:8:9-34
+uses-feature#0x00030000
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:14:5-54
+	android:glEsVersion
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:14:19-51
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:16:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:9:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:17:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:10:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:17:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:19:5-21:36
+MERGED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:7:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:7:5-60
+	android:required
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:21:9-33
+		MERGED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:20:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:23:9-57
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:26:9-53
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:29:5-31:38
+MERGED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:12:5-81
+MERGED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:12:5-81
+	android:maxSdkVersion
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:31:9-35
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:30:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:32:5-34:38
+	android:maxSdkVersion
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:34:9-35
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:33:9-64
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:37:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:40:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:43:9-72
+application
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:46:5-86:19
+MERGED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:14:5-15:19
+MERGED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:14:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\4d4396ad006cd98fbb35006d3ac635de\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\4d4396ad006cd98fbb35006d3ac635de\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\1763c6e454fcdb8c7b59069e700a4f06\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\1763c6e454fcdb8c7b59069e700a4f06\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\38d71a10e6041c91a32451f71ae2e84b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\38d71a10e6041c91a32451f71ae2e84b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\1763c6e454fcdb8c7b59069e700a4f06\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:48:9-41
+	android:debuggable
+		ADDED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:14:18-44
+	android:icon
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:47:9-40
+	android:theme
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:49:9-50
+activity#com.Tes.Nirbana.MainActivity
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:50:9-59
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:50:19-47
+activity#com.Tes.Nirbana.LoginActivity
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:51:9-51
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:51:19-48
+activity#com.Tes.Nirbana.UnityPlayerActivity
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:52:9-57
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:52:19-54
+activity#com.Tes.Nirbana.SplashScreen
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:53:9-72:20
+	android:screenOrientation
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:59:13-51
+	android:label
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:57:13-45
+	android:launchMode
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:58:13-44
+	android:hardwareAccelerated
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:56:13-48
+	android:configChanges
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:55:13-194
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:54:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:60:13-64:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:61:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:63:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:66:13-68:40
+	android:value
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:68:17-37
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:67:17-57
+meta-data#android.notch_support
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:69:13-71:40
+	android:value
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:71:17-37
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:70:17-53
+meta-data#unity.build-id
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:74:9-76:68
+	android:value
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:76:13-65
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:75:13-42
+meta-data#unity.splash-mode
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:77:9-79:33
+	android:value
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:79:13-30
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:78:13-45
+meta-data#unity.splash-enable
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:80:9-82:36
+	android:value
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:82:13-33
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:81:13-47
+meta-data#notch.config
+ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:83:9-85:50
+	android:value
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:85:13-47
+	android:name
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:84:13-40
+uses-sdk
+INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+MERGED from [com.github.florent37:materialtextfield:1.0.7] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\a7401983550df4e00da64e19fe46f44a\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.florent37:materialtextfield:1.0.7] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\a7401983550df4e00da64e19fe46f44a\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\121af5224bce18042592292f9a93cfa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\121af5224bce18042592292f9a93cfa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\4d4396ad006cd98fbb35006d3ac635de\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\4d4396ad006cd98fbb35006d3ac635de\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\7f1679fcb1919dc87c67084607ae7758\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\7f1679fcb1919dc87c67084607ae7758\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\77de28693ffae6305c8b69f3b10bb562\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\77de28693ffae6305c8b69f3b10bb562\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\d7167441f52de6e19777ed5b57c77c29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\d7167441f52de6e19777ed5b57c77c29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\9ecc56a5a6f76f46712dda83100791f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\9ecc56a5a6f76f46712dda83100791f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\60b9510a0bd878f0b49eb62d90ea1e7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\60b9510a0bd878f0b49eb62d90ea1e7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\39a3e38c42c85908b5f2f79be5c11835\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\39a3e38c42c85908b5f2f79be5c11835\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\d74923a3951f49cf9430025e3a43f94e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\d74923a3951f49cf9430025e3a43f94e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\45f881d1ef61fe46c4994fc014c91da9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\45f881d1ef61fe46c4994fc014c91da9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2aa59a60a18f911dbb9657703e68085e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2aa59a60a18f911dbb9657703e68085e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\3fb93a833a01346a90fd9c4d7fc15797\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\3fb93a833a01346a90fd9c4d7fc15797\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\3dbe13f380e86f649c0a2020c17e36bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\3dbe13f380e86f649c0a2020c17e36bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\f0693534fb448336b1594aad0fdcce29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\f0693534fb448336b1594aad0fdcce29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\bcd533f08e8be931457092ca413edb5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\bcd533f08e8be931457092ca413edb5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\1763c6e454fcdb8c7b59069e700a4f06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\1763c6e454fcdb8c7b59069e700a4f06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\38d71a10e6041c91a32451f71ae2e84b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\38d71a10e6041c91a32451f71ae2e84b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\744c59b60ff830973f8bd10bae7846f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\744c59b60ff830973f8bd10bae7846f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\71627176f968ad39372663439add3d08\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\71627176f968ad39372663439add3d08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\85b64be6f6dc0b153d8acaead2b42cb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\85b64be6f6dc0b153d8acaead2b42cb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\d78efb530b39e0fcdf7e9c4ee529accf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\d78efb530b39e0fcdf7e9c4ee529accf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\6c5292c2b106c98ae29fad1980cb92ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\6c5292c2b106c98ae29fad1980cb92ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\7deeef236118ccaa98f377f68af3f925\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\7deeef236118ccaa98f377f68af3f925\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\53a8cce14e5ef9f9959b1e38c064041e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\53a8cce14e5ef9f9959b1e38c064041e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\bd316447f566a3503ab32fbc450e2e6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\bd316447f566a3503ab32fbc450e2e6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\3fd809cd3b8ef0711480ee6e8a6a1f52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\3fd809cd3b8ef0711480ee6e8a6a1f52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\944763dc9ffe5dc7685555e32dc41317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\944763dc9ffe5dc7685555e32dc41317\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] C:\Users\tommywahyu44\.gradle\caches\transforms-2\files-2.1\2a8a8c430f3012c4d9ec357ef706be03\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\tommywahyu44\Documents\GitHub\Nirbana3\src\main\AndroidManifest.xml:2:1-88:12 reason: com.vuforia.engine.app has a targetSdkVersion < 4
